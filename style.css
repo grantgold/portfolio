@@ -23,6 +23,10 @@ body{
   padding-bottom: 5em;
   max-width: 100%;
   overflow-x: hidden;
+  text-rendering: optimizelegibility;
+  word-break: break-word;
+  word-wrap: break-word;
+  -webkit-font-smoothing: antialiased;
 }
 
 b{
@@ -32,14 +36,11 @@ b{
 a{
   color: #303030;
   text-decoration: underline;
+ 
 }
 a:hover{
   color: #303030;
   text-decoration: underline;
-}
-
-i {
-  background-color: #FFEACD;
 }
 
 h1 {
@@ -56,11 +57,16 @@ section {
 }
 
 ul {
+  margin-top: 1em;
   list-style-type: none;
 }
 
 li {
   padding-bottom: .8em;
+}
+
+li a {
+  background-color: #FFEACD;
 }
 
 blockquote {
@@ -134,51 +140,15 @@ Media Queries
   .container {
     width: 720px;
   }
-  .photo-caption {
-    margin-left: -180px;
-  }
 }
 @media (min-width: 780px) {
   .container {
     width: 760px;
   }
-  .form-control {
-    width: 290px;
-  }
-  .navbar {
-    height: 200px;
-    padding-left: 10%;
-    padding-right: 10%;
-  }
-  .circle-text a {
-    font-size: 120%;
-  }
-  .profile {
-    margin-top: 10px;
-  }
-  .profile-image img{
-    float: left;
-    text-align: left;
-  }
-  .profile > .profile-name {
-    padding-top: 10px;
-    font-size: 20px;
-    line-height: 28px;
-  }
-  .profile > .profile-title {
-    font-size: 14px;
-    line-height: 24px;
-  }
-  .embed-responsive-item {
-    height: 640px;
-  }
 }
 @media (min-width: 860px) {
   .container {
     width: 840px;
-  }
-  .meta-bar {
-    font-size: 16px;
   }
 }
 @media (min-width: 1040px) {
@@ -189,18 +159,5 @@ Media Queries
 @media (min-width: 1200px) {
   .container {
     width: 1060px;
-  }
-  .container-fluid {
-    padding-left: 5%;
-    padding-right: 5%;
-  }
-  .form-control {
-    width: 400px;
-  }
-  .circle-text a {
-    font-size: 180%;
-  }
-  .meta-bar {
-    font-size: 22px;
   }
 }

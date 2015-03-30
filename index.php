@@ -10,7 +10,7 @@
 			<li>Design, interaction, and product at <a href="http://www.nytimes.com" target="_blank">The New York Times</a>.</li>
 			<li>Styling, design, interaction, and development for <a href="#">MAD</a>.</li>
 			<li>Full UI/UX redesign of all mobile products at <a href="http://www.rdio.com" target="_blank">rdio</a> on iPhone, iPad, and Android.</li>
-			<li>Design, interaction, and animation at <a href="http://www.squarespace.com" target="_blank">Squarespace</a>.</li>
+			<li>Product features, design and interaction of themes and mobile apps at <a href="http://www.squarespace.com" target="_blank">Squarespace</a>.</li>
 			<li>System and UI design for a responsive overhaul of Gmail, Search, Maps, Calendar, and Docs at <a href="http://www.google.com" target="_blank">Google</a>.</li>
 		</ul>
 	</div>

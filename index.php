@@ -7,7 +7,7 @@
 	<div class="container">
 		<b>Work to date:</b>
 		<ul>
-			<li>Design, interaction, and product at <a href="http://www.fastcodesign.com/3035845/design-details-the-nyt-ipad-cooking-app-really-zooms" target="_blank">The New York Times</a>.</li>
+			<li>Design, interaction, and product at <a href="http://www.fastcodesign.com/3035845/design-details-the-nyt-ipad-cooking-app-really-zooms" target="_blank" alt="nytimes">The New York Times</a>.</li>
 			<li>Styling, design, interaction, and development for <a href="http://www.madfeed.co">MAD</a>.</li>
 			<li>Full UI/UX redesign of all mobile products at <a href="http://www.rdio.com" target="_blank">rdio</a> on iPhone, iPad, and Android.</li>
 			<li>Product features, design and interaction of themes and mobile apps at <a href="http://www.squarespace.com" target="_blank">Squarespace</a>.</li>

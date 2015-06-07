@@ -38,6 +38,11 @@ a{
   text-decoration: underline;
  
 }
+
+a .noHighlight {
+  background-color: #fff;
+}
+
 a:hover{
   color: #303030;
   text-decoration: underline;

@@ -39,7 +39,7 @@ a{
  
 }
 
-li a .noHighlight {
+li a.noHighlight {
   background-color: #fff;
 }
 

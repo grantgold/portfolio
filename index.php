@@ -1,15 +1,15 @@
 <?php include('header.php'); ?>
 
-<div id="list">
+<div id="resume">
 	<div class="container">
 		<b>Grant Gold</b> is a designer in New York City
 	</div>
-	<div class="container">
+	<div id="list" class="container">
 		<b>Work to date:</b>
 		<ul>
 			<li>Interactive design for products and editorial at <a href="http://www.nytimes.com" target="_blank"><b>The New York Times</b></a>.</li>
 			<li>Direction, design, and development for Chef Ren&#233; Redzepi&#8217;s non-pro&#64257;t, <a href="http://www.madfeed.co"><b>MAD</b></a>.</li>
-			<li>UI/UX redesign</a> of mobile products at <a href="http://www.rdio.com" target="_blank"><b>rdio</b></a> on iPhone, iPad, and Android.</li>
+			<li>UI/UX redesign</a> of mobile products at <a id="link" href="http://www.rdio.com" target="_blank"><b>rdio</b></a> on iPhone, iPad, and Android.</li>
 			<li>Product features, design and interaction of themes and mobile apps at <a href="http://www.squarespace.com" target="_blank"><b>Squarespace</b></a>.</li>
 			<li>System and UI design for a responsive overhaul of Gmail, Search, Maps, Calendar, and Docs at <a href="http://www.theverge.com/2013/1/24/3904134/google-redesign-how-larry-page-engineered-beautiful-revolution" target="_blank"><b>Google</b></a>.</li>
 		</ul>
@@ -19,6 +19,8 @@
 			var yceipdf = ['o','l','o','l','a','i','"','a','"','a','i','a',' ','/','t','a','l','o','>','e','m','g','g','"','h','@','m','l','n','l','a','c','f','c','s','a','t','=','g','e','d','m','g','m','=','m','>','l','r','i','o','<','i','.','d','g',' ','o','a',':','<','a','r','@','l','.','r','s','a','m','t','"','c','a','g','n'];var qgrxvld = [14,39,70,12,74,30,36,18,8,10,66,21,2,73,56,40,60,34,75,5,35,22,52,50,3,62,9,49,55,24,29,38,6,69,42,54,13,7,63,45,25,71,58,64,43,46,51,67,53,48,23,0,11,32,61,27,37,59,47,15,72,57,17,26,31,68,4,41,65,28,20,44,33,1,16,19];var lknzanq= new Array();for(var i=0;i<qgrxvld.length;i++){lknzanq[qgrxvld[i]] = yceipdf[i]; }for(var i=0;i<lknzanq.length;i++){document.write(lknzanq[i]);}
   // --></script>
 			<noscript>Please enable Javascript to see the email address</noscript>
+			<a class="noHighlight" href="https://twitter.com/grantagold" target="_blank">/ twitter</a>
+			<a class="noHighlight" href="https://instagram.com/grantagold/" target="_blank">/ Instagram</a>
 	</div>
 </div>
 

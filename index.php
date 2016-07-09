@@ -2,16 +2,16 @@
 
 <div id="resume">
 	<div class="container">
-		<b>Grant Gold</b> is a designer in New York City
+		Grant Gold is a designer in New York City
 	</div>
 	<div id="list" class="container">
-		<b>Work to date:</b>
+		Work to date:
 		<ul>
-			<li>Interactive design for products and editorial at <a href="http://www.nytimes.com" target="_blank"><b>The New York Times</b></a>.</li>
-			<li>Direction, design, and development for Chef Ren&#233; Redzepi&#8217;s non-pro&#64257;t, <a href="http://www.madfeed.co"><b>MAD</b></a>.</li>
-			<li>UI/UX redesign</a> of mobile products at <a id="link" href="http://www.rdio.com" target="_blank"><b>rdio</b></a> on iPhone, iPad, and Android.</li>
-			<li>Product features, design and interaction of themes and mobile apps at <a href="http://www.squarespace.com" target="_blank"><b>Squarespace</b></a>.</li>
-			<li>System and UI design for a responsive overhaul of Gmail, Search, Maps, Calendar, and Docs at <a href="http://www.theverge.com/2013/1/24/3904134/google-redesign-how-larry-page-engineered-beautiful-revolution" target="_blank"><b>Google</b></a>.</li>
+			<li>Art direction, design, and production of newsroom editorial at <a href="http://www.nytimes.com" target="_blank">The New York Times</a>.</li>
+			<li>Direction, design, and development for Chef Ren&#233; Redzepi&#8217;s non-pro&#64257;t, <a href="http://www.madfeed.co">MAD</a>.</li>
+			<li>UI/UX design of mobile products at <a id="link" href="http://www.rdio.com" target="_blank">rdio</a> on iPhone, iPad, and Android.</li>
+			<li>Product features, design and interaction of themes and mobile apps at <a href="http://www.squarespace.com" target="_blank">Squarespace</a>.</li>
+			<li>System and UI design for a responsive overhaul of Gmail, Search, Maps, Calendar, and Docs at <a href="http://www.theverge.com/2013/1/24/3904134/google-redesign-how-larry-page-engineered-beautiful-revolution" target="_blank">Google</a>.</li>
 		</ul>
 	</div>
 	<div class="container">

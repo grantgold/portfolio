@@ -1,6 +1,6 @@
 /*
 Theme Name: Grant Gold
-Theme URI: 
+Theme URI:
 Description: Portfolio of design work
 Version: 1.0
 Author: Grant Gold
@@ -19,7 +19,7 @@ body{
   font-size: 2.2em;
   line-height: 1.2em;
   color:#4A4A4A;
-  padding-top: 3em;
+  padding-top: 1em;
   padding-bottom: 5em;
   max-width: 100%;
   overflow-x: hidden;
@@ -29,14 +29,10 @@ body{
   -webkit-font-smoothing: antialiased;
 }
 
-b{
-  font-weight: 900;
-}
-
 a{
   color: #303030;
   text-decoration: none;
- 
+
 }
 
 li a.noHighlight {
@@ -70,6 +66,7 @@ li {
 
 li a {
   background-color: #FFEACD;
+  font-weight: 800;
 }
 
 blockquote {
@@ -144,29 +141,3 @@ Media Queries
     font-size: 2.6em;
   }
 }
-
-/*@media (min-width: 768px) {
-  .container {
-    width: 720px;
-  }
-}
-@media (min-width: 780px) {
-  .container {
-    width: 760px;
-  }
-}
-@media (min-width: 860px) {
-  .container {
-    width: 840px;
-  }
-}
-@media (min-width: 1040px) {
-  .container {
-    width: 1030;
-  }
-}
-@media (min-width: 1200px) {
-  .container {
-    width: 1060px;
-  }
-}*/

@@ -32,7 +32,9 @@ body{
 a{
   color: #303030;
   text-decoration: none;
-
+}
+b {
+  font-weight: 900;
 }
 
 li a.noHighlight {

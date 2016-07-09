@@ -2,10 +2,10 @@
 
 <div id="resume">
 	<div class="container">
-		<h1>Grant Gold</h1> is a designer in New York City
+		<b>Grant Gold</b> is a designer in New York City
 	</div>
 	<div id="list" class="container">
-		<h1>Work to date:</h1>
+		<b>Work to date:</b>
 		<ul>
 			<li>Art direction, design, and production of newsroom editorial at <a href="http://www.nytimes.com" target="_blank">The New York Times</a>.</li>
 			<li>Direction, design, and development for Chef Ren&#233; Redzepi&#8217;s non-pro&#64257;t, <a href="http://www.madfeed.co">MAD</a>.</li>

@@ -7,6 +7,7 @@
 	<div id="list" class="container">
 		<b>Work to date:</b>
 		<ul>
+			<li>Graphics/Multimedia Editor at <a href="http://www.nytimes.com" target="_blank">The New York Times</a>.</li>
 			<li>Design, and production of newsroom editorial at <a href="http://www.nytimes.com" target="_blank">The New York Times</a>.</li>
 			<li>Direction, design, and development for Chef Ren&#233; Redzepi&#8217;s non-pro&#64257;t, <a href="http://www.madfeed.co">MAD</a>.</li>
 			<li>UI/UX design of mobile products at <a id="link" href="http://www.rdio.com" target="_blank">rdio</a> on iPhone, iPad, and Android.</li>

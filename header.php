@@ -2,7 +2,7 @@
 <html>
   <head>
     <title>Grant Gold</title>
-    <meta name="description" content="Designer at The New York Times, previously rdio, Google, and Squarespace. Portfolio available upon request." />
+    <meta name="description" content="Graphics/Multimedia Editor at The New York Times, previously rdio, Google, and Squarespace. Portfolio available upon request." />
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
     <!-- Fonts: Lato / http://www.latofonts.com/ -->
@@ -10,10 +10,10 @@
 
     <!-- Bootstrap CSS -->
     <link rel="stylesheet" type="text/css" href="css/bootstrap.min.css"/>
-      
+
     <!-- Font Awesome // http://fortawesome.github.io/Font-Awesome/icons -->
     <link rel="stylesheet" type="text/css" href="css/font-awesome.min.css"/>
-      
+
     <!-- Custom CSS -->
     <link rel="stylesheet" type="text/css" media="screen, print" href="style.css"/>
 

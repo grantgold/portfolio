@@ -2,8 +2,8 @@
 
 <div id="resume">
 	<div class="container">
-		<b>Grant Gold</b>
-		Graphics/Multimedia Editor at <a href="http://www.nytimes.com" target="_blank">The New York Times</a>.
+		<b>Grant Gold</b><br>
+		Graphics/Multimedia Editor at The New York Times
 	</div>
 	<div id="list" class="container">
 		<b>Work to date:</b>

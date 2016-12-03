@@ -3,7 +3,7 @@
 <div id="resume">
 	<div class="container">
 		<b>Grant Gold</b><br>
-		Graphics/Multimedia Editor at The New York Times
+		Graphics Editor at The New York Times
 	</div>
 	<div id="list" class="container">
 		<b>Work to date:</b>

@@ -2,7 +2,7 @@
 <html>
   <head>
     <title>Grant Gold</title>
-    <meta name="description" content="Graphics Editor at The New York Times, previously rdio, Google, and Squarespace. Portfolio available upon request." />
+    <meta name="description" content="Art Director at The New York Times, previously rdio, Google, and Squarespace. Portfolio available upon request." />
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
     <!-- Fonts: Lato / http://www.latofonts.com/ -->

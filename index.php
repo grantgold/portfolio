@@ -12,7 +12,7 @@
 			<li>Direction, design, and development for Chef Ren&#233; Redzepi&#8217;s non-pro&#64257;t, <a href="http://www.madfeed.co">MAD</a>.</li>
 			<li>UI/UX design of mobile products at <a id="link" href="http://www.rdio.com" target="_blank">rdio</a> on iPhone, iPad, and Android.</li>
 			<li>Product features, design and interaction of themes and mobile apps at <a href="http://www.squarespace.com" target="_blank">Squarespace</a>.</li>
-			<li>System and UI design for a responsive overhaul of Gmail, Search, Maps, Calendar, and Docs at <a href="http://www.theverge.com/2013/1/24/3904134/google-redesign-how-larry-page-engineered-beautiful-revolution" target="_blank">Google</a>.</li>
+			<li>The first large-scale redesign of Gmail, Search, Maps, Calendar, and Docs at <a href="http://www.theverge.com/2013/1/24/3904134/google-redesign-how-larry-page-engineered-beautiful-revolution" target="_blank">Google</a>.</li>
 		</ul>
 	</div>
 	<div class="container">
@@ -21,7 +21,7 @@
   // --></script>
 			<noscript>Please enable Javascript to see the email address</noscript>
 			<a class="noHighlight" href="https://twitter.com/grantagold" target="_blank">/ twitter</a>
-			<a class="noHighlight" href="https://instagram.com/grantagold/" target="_blank">/ Instagram</a>
+			<a class="noHighlight" href="https://instagram.com/cultofjfulford/" target="_blank">/ Instagram</a>
 	</div>
 </div>
 

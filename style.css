@@ -14,7 +14,7 @@ html, html a {
 }
 
 body{
-  font-family: 'Lato', sans-serif;
+  font-family: 'Space Mono', monospace;
   font-size: 2.2em;
   line-height: 1.2em;
   color:#4A4A4A;
@@ -38,6 +38,7 @@ b {
 
 li {
   font-size: .8em;
+  list-style-type: none
 }
 
 li a.noHighlight {
@@ -71,7 +72,6 @@ li {
 
 li a {
   background-color: #FFEACD;
-  font-weight: 800;
 }
 
 blockquote {
@@ -89,7 +89,7 @@ Containers, Layout, and Sections
 */
 
 .container {
-  padding: 0 1.6em 2.4em 1.6em;
+  padding: 0 1.6em 1.2em 1.6em;
 }
 
 /*

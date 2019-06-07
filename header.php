@@ -5,8 +5,8 @@
     <meta name="description" content="Art Director at The New York Times. Portfolio available upon request." />
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
-    <!-- Fonts: Lato / http://www.latofonts.com/ -->
-    <link href='http://fonts.googleapis.com/css?family=Lato:100,300,400,700,900,100italic,300italic,400italic,700italic,900italic' rel='stylesheet' type='text/css'>
+    <!-- Google Font -->
+    <link href="https://fonts.googleapis.com/css?family=Space+Mono" rel="stylesheet">
 
     <!-- Bootstrap CSS -->
     <link rel="stylesheet" type="text/css" href="css/bootstrap.min.css"/>

@@ -8,7 +8,7 @@
 	<div id="list" class="container">
 		<ul>
 			<li>I once enjoyed employment but I am become gone. One of the invisible, the wind watchers, holder of a single key that changes shape daily.</li>
-			<li>Available for collaboration, not presently working for money. Just experience and friendships.</li>
+			<li>Available for collaboration.</li>
 		</ul>
 	</div>
 	<div class="container">

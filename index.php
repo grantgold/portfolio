@@ -2,7 +2,7 @@
 
 <div id="dailies">
 	<div id="notebook" class="notebook">
-		<div class="hs full">
+		<div class="hs">
 			<div class="card"><img class="photo" src="image_host/2019/DSCF2710.jpg"><li class="entry"><span class="date">Day 54:</span> The story in crowds of marker caps, stalky, short, tall colorful of the back-to 24 pack. Red collared and hidden behind a misshapen, penciled cloth.</li></div>
 			<div class="card"><img class="photo" src="image_host/2019/DSCF2890.jpg"><li class="entry"><span class="date">Day 53:</span> I once enjoyed employment but I am become breath. One of the invisible, the wind watchers. Holder of a single key, sometimes brass, sometimes silver.</li></div>
 			<div class="card"><img class="photo" src="image_host/2019/DSCF2993.jpg"><li class="entry"><span class="date">Day 52:</span> Crew-cutted swimming instructor singing great grandma's camp song. Something something 5 foot 2, could she chould she coochie koo. Differing between a pool and a bath.</li></div>

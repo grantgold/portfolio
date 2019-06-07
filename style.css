@@ -1,7 +1,7 @@
 /*
 Theme Name: Grant Gold
 Theme URI:
-Description: 
+Description:
 Version: 1.0
 Author: Grant Gold
 Author URI: http://grantagold.com
@@ -34,6 +34,10 @@ a{
 }
 b {
   font-weight: 900;
+}
+
+li {
+  font-size: .8em;
 }
 
 li a.noHighlight {

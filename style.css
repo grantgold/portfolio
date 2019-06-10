@@ -15,8 +15,8 @@ html, html a {
 
 body{
   font-family: 'Space Mono', monospace;
-  font-size: 2.2em;
-  line-height: 1.2em;
+  font-size: 2em;
+  line-height: 1.1em;
   color:#4A4A4A;
   padding-top: 1.1em;
   padding-bottom: 5em;
@@ -186,9 +186,10 @@ Media Queries
 */
 
 @media (min-width: 992px) {
-  /* body {
-    font-size: 2.6em;
-  } */
+  body {
+    font-size: 2.2em;
+    line-height: 1.2em;
+  }
 
   .hs {
     grid-template-columns: repeat(6, calc(25% - 40px));

@@ -192,6 +192,6 @@ Media Queries
   }
 
   .hs {
-    grid-template-columns: repeat(6, calc(25% - 40px));
+    grid-template-columns: repeat(100, calc(25% - 40px));
   }
 }

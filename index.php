@@ -3,7 +3,7 @@
 <div id="dailies">
 	<div id="notebook" class="notebook">
 		<div class="hs">
-			<div class="card"><img class="photo" src="image_host/2019/DSCF3581.jpg"><li class="entry"><span class="date">Day 76:</span> "A joy to be hidden and a disaster not to be found." – D.W. Winnicott</li></div>
+			<div class="card"><img class="photo" src="image_host/2019/DSCF3581.jpg"><li class="entry"><span class="date">Day 76:</span> "It is a joy to be hidden and a disaster not to be found." – D.W. Winnicott</li></div>
 			<div class="card"><img class="photo" src="image_host/2019/DSCF3084.jpg"><li class="entry"><span class="date">Day 57:</span> Where is that skinny leg syndrome, got you so shook-a-look, can’t see knobs on those knees. Pale white lank and uncut hair, mosquito bite worries but ample showing lax in public.</li></div>
 			<div class="card"><img class="photo" src="image_host/2019/DSCF2710.jpg"><li class="entry"><span class="date">Day 54:</span> The story in crowds of marker caps, stalky, short, tall colorful of the back-to 24 pack. Red collared and hidden behind a misshapen, penciled cloth.</li></div>
 			<div class="card"><img class="photo" src="image_host/2019/DSCF2890.jpg"><li class="entry"><span class="date">Day 53:</span> I once enjoyed employment but I am become breath. One of the invisible, the wind watchers. Holder of a single key, sometimes brass, sometimes silver.</li></div>

@@ -78,6 +78,11 @@ blockquote {
   padding-left: 40px;
 }
 
+.description {
+  font-size: .8em;
+  display: block;
+}
+
 /*
 
 Containers, Layout, and Sections
@@ -88,8 +93,16 @@ Containers, Layout, and Sections
   padding-bottom: 2em;
 }
 
-.container {
+.top {
   padding: 1.2em 1.6em 1em 1.2em;
+
+  border-bottom-color: #e8e8e8;
+  border-bottom-style: solid;
+  border-bottom-width: 1px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: baseline;
 }
 
 .photo {
@@ -107,6 +120,7 @@ Containers, Layout, and Sections
 .notebook {
   display: grid;
   grid-template-columns: 20px 1fr 20px;
+  padding-top: 2em;
 }
 .notebook > * {
   grid-column: 1 / -2;
@@ -122,10 +136,6 @@ Containers, Layout, and Sections
   grid-template-rows: minmax(100px, 1fr);
   padding: 0 1.2em 1.2em 1.2em;
   overflow-x: scroll;
-
-  border-bottom-color: #e8e8e8;
-  border-bottom-style: solid;
-  border-bottom-width: 1px;
 
   -webkit-overflow-scrolling: touch;
   -ms-overflow-style: none;

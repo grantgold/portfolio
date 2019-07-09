@@ -3,6 +3,7 @@
 <div id="dailies">
 	<div id="notebook" class="notebook">
 		<div class="hs">
+			<div class="card"><img class="photo" src="image_host/2019/DSCF3778.jpg"><li class="entry"><span class="date">Day 84:</span> Sinking hands and covering my fingers deep down. The room I used to hide in, it had soft plush carpet. Bougie 70’s wood paneled desk with hidden pornographic playing cards. Spiraling coil of brass, flickered with spring and a catapulted pop, one of many door stoppers I entertained myself with in the room where no one screamed or made fun of each other, called “the front bedroom.”</li></div>
 			<div class="card"><img class="photo" src="image_host/2019/DSCF3581.jpg"><li class="entry"><span class="date">Day 76:</span> "It is a joy to be hidden and a disaster not to be found." – D.W. Winnicott</li></div>
 			<div class="card"><img class="photo" src="image_host/2019/DSCF3084.jpg"><li class="entry"><span class="date">Day 57:</span> Where is that skinny leg syndrome, got you so shook-a-look, can’t see knobs on those knees. Pale white lank and uncut hair, mosquito bite worries but ample showing lax in public.</li></div>
 			<div class="card"><img class="photo" src="image_host/2019/DSCF2710.jpg"><li class="entry"><span class="date">Day 54:</span> The story in crowds of marker caps, stalky, short, tall colorful of the back-to 24 pack. Red collared and hidden behind a misshapen, penciled cloth.</li></div>

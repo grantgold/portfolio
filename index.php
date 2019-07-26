@@ -15,6 +15,7 @@
 	</div>
 	<div id="notebook" class="notebook">
 		<div class="hs">
+			<div class="card"><li class="entry"><span class="date">Day 101:</span> Oh thin string, wound tight wad of lint, where was it you met my elbow's wool shirt sleeve? You may walk with a spider's float, spun in my fingertips, your whisp-frayed edges invisible. But tomorrow, tell me where will you be then? I envy your presence and lightness to the wind. Show me to the scissors, oh thin wad of lint.</li></div>
 			<div class="card"><img class="photo" src="image_host/2019/DSCF3778.jpg"><li class="entry"><span class="date">Day 84:</span> Sinking hands cover my fingers deep down. The room I used to hide in, it had soft plush carpet. Bougie 70’s wood paneled desk with hidden pornographic playing cards. Spiraling coil of brass, flickered with spring and a catapulted pop, one of many door stoppers I entertained myself with in the room where no one screamed or made fun of each other, named with affection “the front bedroom.”</li></div>
 			<div class="card"><img class="photo" src="image_host/2019/DSCF3581.jpg"><li class="entry"><span class="date">Day 76:</span> "It is a joy to be hidden and a disaster not to be found." – D.W. Winnicott</li></div>
 			<div class="card"><img class="photo" src="image_host/2019/DSCF3084.jpg"><li class="entry"><span class="date">Day 57:</span> My pet snake, he bit me. I called him Steve, desiring mediocre protection from my bulleyable title, Grant. Waking up a child, fearing a name.</li></div>

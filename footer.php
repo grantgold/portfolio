@@ -1,3 +1,5 @@
+
+<footer><li>&copy;2019 Grant Gold</li></footer>
 </body>
 
 <script>

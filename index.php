@@ -4,7 +4,7 @@
 	<div class="top">
 		<div class="title">
 			<b>Grant Gold</b>
-			<div class="description">Photographs and writing.</div>
+			<div class="description">Writing in Mexico.</div>
 		</div>
 		<div class="links"><li>
 			<a href="mailto:grantagold@gmail.com" target="_blank">Email</a> /

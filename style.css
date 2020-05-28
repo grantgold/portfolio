@@ -177,6 +177,7 @@ lou
     margin-right: auto;
     max-width:88%;
     padding: 1.2em;
+    margin-top: -4em;
 }
 
 .mixtape-artwork {
@@ -199,20 +200,32 @@ lou
 }
 .green-audio-player .slider .gap-progress,
 .green-audio-player .slider .gap-progress .pin {
-  background-color: #edcb6f;
+  background-color: #b3030f;
 }
 .green-audio-player .volume {
   display: none;
 }
 
 .circle {
-    background: #f00;
-    width: 6em;
-    height: 6em;
+    background: #b3030f;
+    width: 4em;
+    height: 4em;
     border-radius: 50%;
-    position: absolute;
-    right: 20px;
-    top: 80px;
+    position: relative;
+    left: 88%;
+    top: 160px;
+    text-align: center;
+    color: #fff;
+    line-height: 4em;
+}
+
+.marquee-text {
+  padding-top: 1.2em;
+  padding-bottom: 1.4em;
+}
+marquee {
+  text-decoration: underline;
+  text-decoration-color: #b3030f;
 }
 
 @keyframes fadein {
@@ -259,15 +272,36 @@ Media Queries
   .hs {
     grid-template-columns: repeat(100, calc(60% - 40px));
   }
+  .circle {
+    width: 5em;
+    height: 5em;
+    line-height: 5em;
+  }
 }
 
 @media (min-width: 1000px) {
   .hs {
     grid-template-columns: repeat(100, calc(40% - 40px));
   }
+  .mixtape {
+    width: 40%;
+  }
+  .circle {
+    width: 5em;
+    height: 5em;
+    line-height: 5em;
+  }
 }
 @media (min-width: 1650px) {
   .hs {
     grid-template-columns: repeat(100, calc(35% - 40px));
+  }
+  .mixtape {
+    width: 40%;
+  }
+  .circle {
+    width: 6em;
+    height: 6em;
+    line-height: 6em;
   }
 }

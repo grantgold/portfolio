@@ -103,7 +103,6 @@ footer {
 
 .top {
   padding: 1.2em 1.6em 1em 1.2em;
-
   border-bottom-color: #e8e8e8;
   border-bottom-style: solid;
   border-bottom-width: 1px;
@@ -164,6 +163,56 @@ Animation
         -ms-animation: fadein 2s; /* Internet Explorer */
          -o-animation: fadein 2s; /* Opera < 12.1 */
             animation: fadein 2s;
+}
+
+/*
+
+lou
+
+*/
+
+
+.mixtape {
+    margin-left: auto;
+    margin-right: auto;
+    max-width:88%;
+    padding: 1.2em;
+}
+
+.mixtape-artwork {
+  max-width: 100%;
+}
+
+.mixtape-artwork img {
+  max-width: 100%;
+  height: auto;
+  object-fit: cover;
+}
+
+.green-audio-player {
+  width: 100%;
+  min-width: 0px;
+}
+
+.green-audio-player .controls .controls__slider {
+  height: 2px;
+}
+.green-audio-player .slider .gap-progress,
+.green-audio-player .slider .gap-progress .pin {
+  background-color: #edcb6f;
+}
+.green-audio-player .volume {
+  display: none;
+}
+
+.circle {
+    background: #f00;
+    width: 6em;
+    height: 6em;
+    border-radius: 50%;
+    position: absolute;
+    right: 20px;
+    top: 80px;
 }
 
 @keyframes fadein {

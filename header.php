@@ -2,7 +2,7 @@
 <html>
   <head>
     <title>Grant Gold</title>
-    <meta name="description" content="Art Director at The New York Times. Portfolio available upon request." />
+    <meta name="description" content="Writer, living in France." />
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
     <!-- Google Font -->

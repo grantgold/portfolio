@@ -7,7 +7,7 @@
 			<div class="description">Writing in France and Mexico.</div>
 		</div>
 		<div class="links"><li>
-			<a href="mailto:grantagold@gmail.com" target="_blank">Email</a> /
+			<a href="mailto:hello@grantagold.com" target="_blank">Email</a> /
 			<a class="noHighlight" href="https://www.linkedin.com/in/grant-gold-1228821a/" target="_blank">Resume</a></li>
 		</div>
 	</div>
